@@ -1,0 +1,8 @@
+1- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos SO y en otros no?
+Las compatibilidades de los lenguajes de programación con los sistemas operativos tienen que er con su implementación, compilación, dependencias e interfaces. En general, la compatibilidad tiene que ver con el diseño y el desarrollo que ha tenido históricamente un lenguaje para ciertos entornos específicos.
+
+2-¿Qué tipo de máquina virtual es Virtual Box?
+Virtual Box es una máquina virtual de tipo 2 o hypervisor. Porque se ejecuta como un programa en un sistema operativo host existente. Allí permite la ejecución de multiples máquinas cirtuales. 
+
+3-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?¿Por qué?
+No, porque son entidades aisladas dentro del programa. 
