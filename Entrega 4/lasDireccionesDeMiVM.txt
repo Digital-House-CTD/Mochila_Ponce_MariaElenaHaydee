@@ -1,0 +1,5 @@
+IP PUBLICA: 201.213.132.146
+IP PRIVADA: 192.168.0.14
+MAC: 08:00:27:20:7d:cf
+
+La IP publica es compartida porque estan ambas maquinas conectadas en la misma red. La IP privada no, porque es unica por cada dispositivo.
