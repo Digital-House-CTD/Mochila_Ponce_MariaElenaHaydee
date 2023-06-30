@@ -1,0 +1,33 @@
+Telnet:
+¿Cuáles son las ventajas y desventajas de utilizar el protocolo Telnet?
+
+Algunas ventajas de Telnet son:
+-Es simple y facil de usar porque no requiere programas especializados.
+-Tiene una alta compatibilidad con los sistemas operativos y dispositivos de red.
+-Permite acceder y administrar sistemas remotos desde cualquier ubicación.
+
+Algunas Desventajas de Telnet son:
+-No es tan seguro como otros protocolos porque transmite datos sin cifrar, incluyendo contraseñas y comandos, por lo que puede ser interceptada fácilmente por atacantes.
+-Ciertas limitaciones como que no admite transferencia de archivos u otras funcionalidades avanzadas.
+
+
+SSH:
+¿Cuáles son las ventajas y desventajas de utilizar el protocolo SSH?
+
+Algunas Ventajas de SSH son:
+-Su seguridad, porque tiene cifrado de extremo a extremo. Por eso protege la confidencialidad e integridad de los datos transmitidos.
+-Ofrece varios métodos de autenticación, incluyendo autenticación basada en contraseñas, autenticación basada en claves públicas y autenticación de dos factores. 
+-Permite la transferencia segura de archivos a través del protocolo SFTP. Esto es útil para copiar archivos de forma segura entre sistemas remotos.
+-Su compatibilidad con la mayoría de los sistemas operativos y dispositivos de red.
+
+Desventajas de SSH:
+- Su configuracion inicial puede ser compleja, especialmente las claves de cifrado y las políticas de autenticación que son necesarias para garantizar la seguridad.
+-Debido al cifrado y la autenticación, SSH puede necesitas más recursos que otros protocolos más livianos como Telnet.
+
+Diferencias entre SSH y Telnet:
+a) Pregunta: ¿Cuáles son las principales diferencias entre SSH y Telnet? Responde la pregunta destacando al menos tres diferencias clave entre SSH y Telnet en términos de seguridad, cifrado de datos y características funcionales.
+
+1- Seguridad: SSH es mas seguro que Telnet por su cifrado y sus metodos de autenticación.
+2- Vulnerabilidad: Telnet es mas vulnerable a ataques de terceros.
+3- Funcionalidad: SSH tiene mayores funcionalidades que Telnet, como poder compartir archivos.
+
